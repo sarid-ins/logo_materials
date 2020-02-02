@@ -13,11 +13,12 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 463.72 198.78"
-   style="enable-background:new 0 0 463.72 198.78;"
+   viewBox="0 0 508.69183 508.69184"
    xml:space="preserve"
    sodipodi:docname="individual_sign_sarid.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="508.69183"
+   height="508.69183"><metadata
    id="metadata1069"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -38,12 +39,16 @@
    id="namedview1065"
    showgrid="false"
    inkscape:zoom="1.0734995"
-   inkscape:cx="464.9989"
-   inkscape:cy="327.18075"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
+   inkscape:cx="254.4348"
+   inkscape:cy="216.0664"
+   inkscape:window-x="2391"
+   inkscape:window-y="291"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <style
    type="text/css"
    id="style943">
@@ -54,7 +59,8 @@
 </style>
 
 <g
-   id="g1156"><g
+   id="g1156"
+   transform="translate(-54.998123,421.02618)"><g
      transform="matrix(5.0237417,0,0,5.0237417,-166.28626,-665.99823)"
      id="g984">
 		<g
